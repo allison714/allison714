@@ -36,3 +36,31 @@ My computational work focuses on scalable image processing, volumetric microscop
 - [pan-ExM-t Publication Code](https://github.com/kuan-lab/pan-exm-t_paper) — Computational resources accompanying our published pan-Expansion Microscopy methodology.
 
 **Research Groups:** [Kuan Lab](https://github.com/kuan-lab) | [Bewersdorf Lab](https://github.com/bewersdorflab)
+
+### Selected Publications
+
+**All-optical visualization of specific molecules in the ultrastructural context of brain tissue**  
+*Nature Biotechnology* (2025)  
+[Publication](https://doi.org/10.1038/s41587-025-02905-4)
+
+**Structural water enhanced intercalation of magnesium ions in copper hexacyanoferrate nonaqueous batteries**  
+*Electrochimica Acta* (2020)  
+[Publication](https://doi.org/10.1016/j.electacta.2020.137077)
+
+**An Interactive Online Electron Microscopy Platform Integrating Classroom Lectures and Lab Practice**  
+*Microscopy Today* (2020)  
+[Publication](https://doi.org/10.1017/S1551929520000656)
+
+**An Interactive and Adaptive Online Electron Microscopy Education Platform**  
+*Microscopy and Microanalysis* (2019)  
+[Publication](https://doi.org/10.1017/S1431927619012212)
+
+### Undergraduate Research Thesis
+
+**Scanning Electron Microscopy (SEM) Investigation of Morphology Changes in the Reduction of Silica Nanoparticles to Elemental Silicon**  
+*Portland State University* (2020)  
+[Thesis](https://doi.org/10.15760/honors.941)
+
+---
+
+[ORCID: 0000-0002-5766-1200](https://orcid.org/0000-0002-5766-1200)
