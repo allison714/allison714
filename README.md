@@ -1,6 +1,6 @@
 # Allison Cairns
 
-**Ph.D. Candidate in Applied Physics | Yale University**
+**Ph.D. Candidate in [Applied Physics](https://engineering.yale.edu/academic-study/departments/applied-physics/people#gradstudents) and [Physics, Engineering, and Biology](https://physics-engineering-biology.yale.edu/profile/allison-cairns) | Yale University**
 
 **Advanced Optical Microscopy · Quantitative Neuroimaging · Connectomics**
 
