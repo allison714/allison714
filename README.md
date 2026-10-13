@@ -4,7 +4,7 @@
 
 **Advanced Optical Microscopy · Quantitative Neuroimaging · Connectomics**
 
-I am a doctoral researcher in the [Kuan Lab](https://github.com/kuan-lab) and [Bewersdorf Lab](https://github.com/bewersdorflab) at Yale University, working at the intersection of optical microscopy, computational image analysis, and neuroscience.
+I am a doctoral researcher in the [Kuan Lab](https://www.kuanlab.org/) | [GitHub](https://github.com/kuan-lab) and [Bewersdorf Lab](https://bewersdorflab.yale.edu/) | [GitHub](https://github.com/bewersdorflab) at Yale University, working at the intersection of optical microscopy, computational image analysis, and neuroscience.
 
 My research leverages **pan-Expansion Microscopy (pan-ExM)** to investigate nanoscale synaptic architecture and molecular organization in neurodevelopmental disorders, with a particular focus on **Shank2-associated autism spectrum disorder**.
 
